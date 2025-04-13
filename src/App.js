@@ -9,7 +9,7 @@ import Loader from "./Components/Loader";
 import ErrorMessage from "./Components/ErrorMessage";
 import MovieDetails from "./Components/MovieDetails";
 
-const KEY = "90c56b81";
+const KEY = "Enter your key";
 function App() {
     const [movies, setMovies] = useState([]);
     //const [watched, setWatched] = useState([]);
